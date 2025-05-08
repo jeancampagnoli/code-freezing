@@ -1,0 +1,9 @@
+---
+glass_breaker_group:
+  - mateusmuller
+  - root
+
+  freezing_dates:
+    from: 2025-03-20
+    to: 2025-03-25
+    
